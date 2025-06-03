@@ -182,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -198,6 +198,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "SignUp.cs",
@@ -207,8 +211,7 @@
               "RelativeToolTip": "Demo.DAL\\Models\\SignUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:29:43.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T15:29:43.735Z"
             },
             {
               "$type": "Document",
@@ -220,8 +223,7 @@
               "RelativeToolTip": "Demo.PL\\Views\\Account\\SignUp.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T15:26:43.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T15:26:43.831Z"
             },
             {
               "$type": "Document",
@@ -231,14 +233,10 @@
               "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\ResetPass.cshtml",
               "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\ResetPass.cshtml",
               "RelativeToolTip": "Demo.PL\\Views\\Account\\ResetPass.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAABAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-02T15:25:43.103Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
@@ -250,8 +248,7 @@
               "RelativeToolTip": "Demo.PL\\HelperClass\\EmailSetting.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:57:49.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T00:57:49.8Z"
             },
             {
               "$type": "Document",
@@ -263,8 +260,7 @@
               "RelativeToolTip": "Demo.PL\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAHUAAAAAAAAAAAAAAIYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:21:51.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T17:21:51.141Z"
             },
             {
               "$type": "Document",
@@ -300,8 +296,7 @@
               "RelativeToolTip": "Demo.DAL\\Models\\ResetPassword.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:09:07.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T14:09:07.315Z"
             },
             {
               "$type": "Document",
@@ -325,8 +320,7 @@
               "RelativeToolTip": "Demo.PL\\Views\\Account\\SignIn.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T16:56:17.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T16:56:17.069Z"
             },
             {
               "$type": "Document",

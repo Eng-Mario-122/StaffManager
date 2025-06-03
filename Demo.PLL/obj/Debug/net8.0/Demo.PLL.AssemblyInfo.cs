@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Demo.PLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e7a290183a8a0ee13a8a57a4ef340a8ec03ad4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Demo.PLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Demo.PLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
