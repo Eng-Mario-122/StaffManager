@@ -1,0 +1,53 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Emplyees Details</h1>
+<div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Name">  </label>
+        <input asp-for="Name" class=" form-control"readonly/>
+
+
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Age">  </label>
+        <input asp-for="Age" class=" form-control" readonly/>
+       
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Adress">  </label>
+        <input asp-for="Adress" class=" form-control" readonly/>
+      
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Salary">  </label>
+        <input asp-for="Salary" class=" form-control" readonly />
+
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="IsActive">  </label>
+        <input asp-for="IsActive" class=" form-control" readonly />
+
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Email">  </label>
+        <input asp-for="Email" class=" form-control" readonly />
+
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="PhoneNumber">  </label>
+        <input asp-for="PhoneNumber" class=" form-control" readonly />
+
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Hiredate">  </label>
+        <input asp-for="Hiredate" class=" form-control" readonly />
+
+    </div>
+
+    <input type="submit" value="Details" class="btn btn-primary" />
+    <a asp-action="Index"class="btn btn-light"back to list> </a>
+    <div/>
+

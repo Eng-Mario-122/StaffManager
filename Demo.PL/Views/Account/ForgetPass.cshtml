@@ -1,0 +1,19 @@
+﻿@model ForgetPass
+<head>
+    <meta charset="UTF-8" />
+    <title>Forgot Password</title>
+</head>
+<body>
+
+    <div class="forget-password-box">
+        <h2>Forgot Password</h2>
+        <form asp-action="SendResetPassUrl" >
+            <input type="email" name="email" placeholder="Enter your email" required />
+            <br />
+            <button type="submit">Send Reset Link</button>
+        </form>
+        <p>Remember your password? <a href="/Account/SignIn">Sign In</a></p>
+    </div>
+
+</body>
+</html>

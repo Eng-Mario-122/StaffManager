@@ -1,0 +1,39 @@
+﻿@model Department
+{
+    
+}
+
+<h1>Delete</h1>
+<br />
+<br />
+<form asp-action="Delete">
+    <div asp-validation-summary="All"></div>
+
+
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Code">  </label>
+        <input asp-for="Code" class=" form-control" />
+        <span asp-validation-for="Code" class="text-danger">  </span>
+
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="Name">  </label>
+        <input asp-for="Name" class=" form-control" />
+        <span asp-validation-for="Name" class="text-danger">  </span>
+
+    </div>
+    <div class="from-group">
+        <label class="col-form-lable" asp-for="DateOfCreation">  </label>
+        <input asp-for="DateOfCreation" class=" form-control" />
+        <span asp-validation-for="DateOfCreation" class="text-danger">  </span>
+
+    </div>
+
+    <input type="submit" value="Delete" class="btn btn-primary" />
+    <a asp-action="Index" class="btn btn-light" back to list> </a>
+
+
+
+
+</form>
+

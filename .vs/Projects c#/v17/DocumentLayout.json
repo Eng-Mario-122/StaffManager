@@ -1,0 +1,720 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\repos\\Projects c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\account\\resetpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\resetpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\helperclass\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\helperclass\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\account\\forgetpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\forgetpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|e:\\source\\repos\\projects c#\\demo.pll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|solutionrelative:demo.pll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\account\\signout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\signout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\migrations\\20250314235235_customizeusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20250314235235_customizeusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\migrations\\20250312210746_employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20250312210746_employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\migrations\\20250224155756_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20250224155756_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|e:\\source\\repos\\projects c#\\demo.pll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|solutionrelative:demo.pll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|e:\\source\\repos\\projects c#\\demo.pll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|solutionrelative:demo.pll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|e:\\source\\repos\\projects c#\\demo.pll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23D514D-9F45-4F4E-8607-746406DC636F}|Demo.PLL\\Demo.PLL.csproj|solutionrelative:demo.pll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\data\\configration\\departmenyconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configration\\departmenyconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|e:\\source\\repos\\projects c#\\demo.pl\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F5C90-FF86-4914-BEDB-F0E8EE7B83D8}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|e:\\source\\repos\\projects c#\\demo.dal\\migrations\\20250525173258_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BC601-9DAB-46BB-BBB2-ED34970ADFD3}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20250525173258_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:49:09.239Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\SignUp.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\SignUp.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\SignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:29:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T15:26:43.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetPass.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\ResetPass.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\ResetPass.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\ResetPass.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\ResetPass.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T15:25:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\HelperClass\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\HelperClass\\EmailSetting.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\HelperClass\\EmailSetting.cs",
+              "RelativeToolTip": "Demo.PL\\HelperClass\\EmailSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:57:49.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:21:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:03:20.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Email.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Email.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\Email.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:55:22.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPassword.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\ResetPassword.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\ResetPassword.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\ResetPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:09:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckYourInbox.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:25:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:56:17.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T00:48:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForgetPass.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\ForgetPass.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\ForgetPass.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\ForgetPass.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\ForgetPass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T00:55:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T00:10:08.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T00:11:56.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T16:02:17.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAF4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:11:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:46:54.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:59:11.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T23:51:48.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "Demo.PLL\\Interfaces\\IGenaricRepository.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeToolTip": "Demo.PLL\\Interfaces\\IGenaricRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Employee.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\Employee.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:52:48.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:35:05.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T13:19:01.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ForgetPass.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\ForgetPass.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\ForgetPass.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\ForgetPass.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\ForgetPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:48:38.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:15:28.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vyYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:37:24.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SignOut.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\SignOut.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\SignOut.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Account\\SignOut.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\SignOut.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T18:30:13.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:32:11.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250314235235_CustomizeUserTable.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250314235235_CustomizeUserTable.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20250314235235_CustomizeUserTable.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250314235235_CustomizeUserTable.cs",
+              "RelativeToolTip": "Demo.DAL\\Migrations\\20250314235235_CustomizeUserTable.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:27:35.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250525173258_Users.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250525173258_Users.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20250525173258_Users.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250525173258_Users.cs",
+              "RelativeToolTip": "Demo.DAL\\Migrations\\20250525173258_Users.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:32:59.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Demo.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:18:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\SignIn.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\SignIn.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\SignIn.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\SignIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:20:41.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250312210746_EmployeeDb.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250312210746_EmployeeDb.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20250312210746_EmployeeDb.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250312210746_EmployeeDb.cs",
+              "RelativeToolTip": "Demo.DAL\\Migrations\\20250312210746_EmployeeDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:27:46.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250224155756_InitialCreate.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250224155756_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20250224155756_InitialCreate.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Migrations\\20250224155756_InitialCreate.cs",
+              "RelativeToolTip": "Demo.DAL\\Migrations\\20250224155756_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:18:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:26:40.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo.PLL\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Demo.PLL\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:00.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.PLL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Demo.PLL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:06.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo.PLL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Demo.PLL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:10.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T19:22:26.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ModelBase.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\ModelBase.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\ModelBase.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Models\\ModelBase.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\ModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:21:51.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.PL\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.PL\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:21:05.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DepartmenyConfigration.cs",
+              "DocumentMoniker": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Data\\Configration\\DepartmenyConfigration.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configration\\DepartmenyConfigration.cs",
+              "ToolTip": "E:\\source\\repos\\Projects c#\\Demo.DAL\\Data\\Configration\\DepartmenyConfigration.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Configration\\DepartmenyConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:27:03.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

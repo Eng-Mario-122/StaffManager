@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "SignOut";
+}
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Out</title>
+    <link rel="stylesheet" href="signout.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Are you sure you want to sign out?</h2>
+        <form action="/Account/SignOut" method="post">
+            <button type="submit">Sign Out</button>
+        </form>
+    </div>
+
+</body>
+</html>
